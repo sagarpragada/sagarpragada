@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagarpragada
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning  Data analytics
-- 💞️ I’m looking to collaborate with currently working data sciencetist/analyst
+- 💞️ I’m looking to collaborate with currently working data scientist/analyst
 - 📫 How to reach me ...sagarpragada3732@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
